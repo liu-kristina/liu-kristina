@@ -12,6 +12,9 @@ Please check back around the end of April 2025 after I finish the Data Science B
    <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=flat&logo=tensorflow&logoColor=white">
    <img src="https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn">
    <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
+   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)">
+   <img src = "https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)">
+   
 </p>
 
 <p>
