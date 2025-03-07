@@ -2,14 +2,16 @@
 
 Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing training in Data Science. 
 
+### My Github profile is currently getting a facelift (adding projects from masters in Biomedical Imaging, MLOps of Data Science projects etc.) 
+Please check back around the end of April 2025 after I finish the Data Science Bootcamp from Constructor Academy
+
 ## 💻 Technologies Loading...
 <p>
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
    
 </p>
-### My Github profile is currently getting a facelift (adding projects from masters in Biomedical Imaging, MLOps of Data Science projects etc.) 
-Please check back around the end of April 2025 after I finish the Data Science Bootcamp from Constructor Academy
+
 <p>
 👨‍💻 I’m currently 🔧 working on capstone project. <br>
 <br>
