@@ -9,7 +9,8 @@ Please check back around the end of April 2025 after I finish the Data Science B
 <p>
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-   
+   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)">
+   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
 </p>
 
 <p>
