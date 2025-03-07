@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Kristina (now) Liang! I'm a scientist currently pursuing training in Data Science. 
+Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing training in Data Science. 
 
 ## 💻 Technologies Loading...
 <p>
