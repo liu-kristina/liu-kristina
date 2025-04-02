@@ -19,7 +19,7 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing t
 <p>
 👨‍💻 I’m currently 🔧 working on capstone project. <br>
 <br>
-📫 How to reach me: ✉️ <a href="mailto:liang.kristina.cal@gmail.com">Email</a> 
+📫 How to reach me: ✉️ liang.kristina.cal@gmail.com 
 
 </p>
 
