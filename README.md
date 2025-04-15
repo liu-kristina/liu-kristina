@@ -17,7 +17,8 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing t
 </p>
 
 <p>
-👨‍💻 I’m currently 🔧 working on capstone project. <br>
+👨‍💻 I’m currently 🔧 working on learning German  ![image](https://github.com/user-attachments/assets/0a661774-f785-4de0-b371-dfbad826d412)
+ <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com 
 
