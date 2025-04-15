@@ -3,7 +3,7 @@
 Hello, I'm Kristina (previously Liu) Liang! 
 
 
-## About Me:
+## About Me
 🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
 📊 Data Scientist
 
