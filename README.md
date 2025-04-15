@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Kristina (previously Liu) Liang! I'm a scientist with a background in biomedical imaging with certification in data science and AI.
+Hello, I'm Kristina (previously Liu) Liang! I'm a data scientist with a background in chemistry and biomedical imaging.
 
 
 
