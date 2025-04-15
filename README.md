@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing training in Data Science. 
+Hello, I'm Kristina (previously Liu) Liang! I'm a scientist with a background biomedical imaging with certification in data science and AI.
 
 
 
@@ -17,7 +17,7 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a scientist currently pursuing t
 </p>
 
 <p>
-👨‍💻 I’m currently 🔧 working on learning German!
+👨‍💻 I’m currently 🔧 working on learning German !
  <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com 
