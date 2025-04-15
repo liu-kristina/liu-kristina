@@ -4,7 +4,7 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a scientist with a background in
 
 
 
-## 💻 Technologies Loading...
+## 💻 Technical Skills
 <p>
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
@@ -17,7 +17,7 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a scientist with a background in
 </p>
 
 <p>
-👨‍💻 I’m currently 🔧 working on learning German !
+👨‍💻 I’m currently 🔧 working on learning German!
  <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com 
