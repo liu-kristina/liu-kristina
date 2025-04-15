@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-Hello, I'm Kristina (previously Liu) Liang! I'm a data scientist with a background in chemistry and biomedical imaging.
+Hello, I'm Kristina (previously Liu) Liang! 
 
+
+## About Me:
+🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
+📊 Data Scientist
+
+<p>
 
 
 ## 💻 Technical Skills
@@ -15,12 +21,12 @@ Hello, I'm Kristina (previously Liu) Liang! I'm a data scientist with a backgrou
    <img src = "https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)">
    <img src = "https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
 </p>
-
+⚡ Fun fact: 
 <p>
 👨‍💻 I’m currently 🔧 working on learning German!
  <br>
 <br>
-📫 How to reach me: ✉️ liang.kristina.cal@gmail.com 
+📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
 
 </p>
 
