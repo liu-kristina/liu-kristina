@@ -4,8 +4,10 @@ Hello, I'm Kristina (previously Liu) Liang!
 
 
 ## About Me
-🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
 📊 Data Scientist
+<br>
+🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
+
 
 <p>
 
@@ -23,7 +25,7 @@ Hello, I'm Kristina (previously Liu) Liang!
 </p>
 <p>
 👨‍💻 I’m currently 🔧 working on learning German!
- <br>
+<br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
 
