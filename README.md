@@ -24,7 +24,7 @@ Hello, I'm Kristina (previously Liu) Liang!
    <img src = "https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
 </p>
 <p>
-👨‍💻 I’m currently 🔧 working on learning German!
+👩‍💻 I’m currently 🔧 working on learning German!
 <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
