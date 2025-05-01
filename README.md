@@ -4,7 +4,7 @@ Hello, I'm Kristina (previously Liu) Liang!
 
 
 ## About Me
-📊 Data Scientist
+📊 Data Scientist (Image Analysis, Image Processing Computer Vision)
 <br>
 🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
 
