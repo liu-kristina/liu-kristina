@@ -4,7 +4,7 @@ Hello, I'm Kristina (previously Liu) Liang!
 
 
 ## About Me
-📊 Data Scientist (Image Analysis, Image Processing Computer Vision)
+📊 Data Scientist (Forecasting with ARIMA and XGBoost, Image Processing/Analysis)
 <br>
 🧑‍🔬 Scientist (Chemistry and Biomedical Imaging)
 
