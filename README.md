@@ -24,7 +24,7 @@ Hello, I'm Kristina (previously Liu) Liang!
    <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
 </p>
 <p>
-👩‍💻 I’m currently 🔧 working on learning German!
+👩‍💻 I’m currently 🔧 working on learning German (B2)!
 <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
