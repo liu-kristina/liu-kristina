@@ -22,6 +22,7 @@ Hello, I'm Kristina (previously Liu) Liang!
    <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=flat&logo=tensorflow&logoColor=white">
    <img src="https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn">
    <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
+   <img src = "https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white">
 </p>
 <p>
 👩‍💻 I’m currently 🔧 working on learning German (B2)!
