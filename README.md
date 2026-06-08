@@ -25,7 +25,7 @@ Hello, I'm Kristina (previously Liu) Liang!
    <img src = "https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white">
 </p>
 <p>
-👩‍💻 I’m currently 🔧 working on learning German (B2)!
+👩‍💻 I’m currently 🔧 working on specializing in AI for Medicine.
 <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
