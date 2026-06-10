@@ -4,7 +4,7 @@ Hello, I'm Kristina (previously Liu) Liang!
 
 
 ## About Me
-📊 Data Scientist (Forecasting with ARIMA and XGBoost, NLP, Computer Vision)
+📊 Data Scientist (Forecasting with XGBoost, NLP, Computer Vision)
 <br>
 🧑‍🔬 Scientist - Applied Physics and Chemistry (Surface NMR and Medical Imaging)
 
@@ -25,7 +25,7 @@ Hello, I'm Kristina (previously Liu) Liang!
    <img src = "https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white">
 </p>
 <p>
-👩‍💻 I’m currently 🔧 working on specializing in AI for Medicine.
+👩‍💻 I’m currently 🔧 working on specializing in AI for Medicine as Clinical Data Scientist.
 <br>
 <br>
 📫 How to reach me: ✉️ liang.kristina.cal@gmail.com
